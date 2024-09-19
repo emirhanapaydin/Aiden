@@ -1,0 +1,206 @@
+hey aiden
+hey eydın
+hey eydin
+sesi aç
+sesi yükselt
+sesi biraz yükselt
+sesi açar mısın
+sesi yükseltir misin
+sesi biraz yükseltir misin
+sesi biraz açar mısın
+sesi artır
+sesi artırır mısın
+sesi azcık artır
+sesi azcık yükselt
+sesi azıcık artır
+sesi azıcık yükselt
+sesi biraz artırır mısın
+sesi aç lütfen
+lütfen sesi aç
+sesi yükselt lütfen
+lütfen sesi yükselt
+sesi biraz yükselt lütfen
+lütfen sesi biraz yükselt 
+sesi açar mısın lütfen
+lütfen sesi açar mısın
+lütfen sesi yükseltir misin
+sesi biraz yükseltir misin lütfen
+sesi biraz açar mısın lütfen
+lütfen sesi biraz açar mısın
+sesi artır lütfen
+lütfen sesi artır
+sesi artırır mısın lütfen
+lütfen sesi artırır mısın
+sesi azcık artır lütfen
+lütfen sesi azcık artır 
+sesi azcık yükselt lütfen
+lütfen sesi azcık yükselt 
+sesi azıcık artır lütfen
+lütfen sesi azıcık artır
+sesi azıcık yükselt lütfen
+lütfen sesi azıcık yükselt 
+sesi biraz artırır mısın lütfen
+lütfen sesi biraz artırır mısın
+aç sesi
+yükselt sesi
+biraz yükselt sesi
+açar mısın sesi
+yükseltir misin sesi
+biraz yükseltir misin sesi
+biraz açar mısın sesi
+artır sesi
+artırır mısın sesi
+azcık artır sesi
+azcık yükselt sesi
+azıcık artır sesi
+azıcık yükselt sesi
+biraz artırır mısın sesi
+aç lütfen sesi
+yükselt lütfen sesi
+biraz yükselt lütfen sesi
+açar mısın lütfen sesi
+yükseltir misin lütfen sesi
+biraz yükseltir misin lütfen sesi
+biraz açar mısın lütfen sesi
+artır lütfen sesi
+eeeh
+well
+vocabulary
+artırır mısın lütfen sesi
+azcık artır lütfen sesi
+azcık yükselt lütfen sesi
+azıcık artır lütfen sesi
+azıcık yükselt lütfen sesi
+biraz artırır mısın lütfen sesi
+sistemin sesini aç
+sistemin sesini yükselt
+sistemin sesini artır
+
+sistemin sesini kıs
+sistemin sesini azalt
+sistemin sesini düşür
+sesi kıs
+sesi biraz kıs
+sesi kısar mısın
+sesi biraz kısar mısın
+sesi azalt
+sesi biraz azalt
+sesi azaltır mısın
+sesi biraz azaltır mısın
+sesi azıcık azaltır mısın
+sesi azcık azalt
+sesi düşür
+sesi biraz düşür
+sesi birazcık düşür
+sesi düşürür müsün
+sesi biraz düşürür müsün
+sesi birazcık düşürür müsün
+sesi azcık düşürür müsün
+sesi kıs lütfen
+sesi biraz kıs lütfen
+sesi kısar mısın lütfen
+sesi biraz kısar mısın lütfen
+sesi azalt lütfen
+sesi biraz azalt lütfen
+sesi azaltır mısın lütfen
+sesi biraz azaltır mısın lütfen
+sesi azıcık azaltır mısın lütfen
+sesi azcık azalt lütfen
+sesi düşür lütfen
+sesi biraz düşür lütfen
+sesi birazcık düşür lütfen
+sesi düşürür müsün lütfen
+sesi biraz düşürür müsün lütfen
+sesi birazcık düşürür müsün lütfen
+sesi azcık düşürür müsün lütfen
+lütfen sesi kıs
+lütfen sesi biraz kıs
+lütfen sesi kısar mısın
+lütfen sesi biraz kısar mısın
+lütfen sesi azalt
+lütfen sesi biraz azalt
+lütfen sesi azaltır mısın
+lütfen sesi biraz azaltır mısın
+lütfen sesi azıcık azaltır mısın
+lütfen sesi azcık azalt
+lütfen sesi düşür
+lütfen sesi biraz düşür
+lütfen sesi birazcık düşür
+lütfen sesi düşürür müsün
+lütfen sesi biraz düşürür müsün
+lütfen sesi birazcık düşürür müsün
+lütfen sesi azcık düşürür müsün
+
+pencereyi kapat
+uygulamayı kapat
+programı kapat
+oyunu kapat
+pencereyi kapa
+uygulamayı kapa
+programı kapa
+oyunu kapa
+pencereyi sonlandır
+uygulamayı sonlandır
+oyunu sonlandır
+
+
+ekranı kilitle 
+windows'u kilitle
+ekranı kilitler misin
+windows'u kilitler misin
+kilitle erkanı 
+kilitle windows'u
+kilitler misin ekranı
+kilitler misin windows'u
+ekranı kilitle lütfen
+windows'u kilitle lütfen
+ekranı kilitler misin lütfen
+windows'u kilitler misin lütfen
+kilitle erkanı lütfen 
+kilitle windows'u lütfen
+kilitler misin ekranı lütfen
+kilitler misin windows'u lütfen
+lütfen ekranı kilitle 
+lütfen windows'u kilitle
+lütfen ekranı kilitler misin
+lütfen windows'u kilitler misin
+lütfen kilitle erkanı 
+lütfen kilitle windows'u
+lütfen kilitler misin ekranı
+lütfen kilitler misin windows'u
+
+sistemi sustur
+sustur sistemi
+sustur sistemi lütfen
+lütfen sistemi sustur
+sistemin sesini kapat
+sesi kapat
+sesi kapat lütfen
+sistemi sustur lütfen
+kapat sesi
+kapat sesi lütfen
+
+geri aç
+
+ekran görüntüsü al 
+ekranı al
+fotoğraf çek
+ekranı çek
+ekran fotoğrafı çek
+ekran görüntüsü kaydet
+ekranı kaydet
+ekran fotoğrafı kaydet
+
+sistem başlangıcına ekle
+başlangıca ekle
+uygulamayı sistemle başlat
+uygulamayı otomatik başlat
+
+uygulamayı sistem başlangıcından kaldır
+sistem başlangıcından kaldır
+çıkış
+
+
+
+
+
