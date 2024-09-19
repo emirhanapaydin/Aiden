@@ -1,5 +1,5 @@
 # aiden
-Personal Assistant Programmed With C#
+Personal Assistant Programmed With C#,
 increase or decrease volume,
 close focused window and reopen it,
 lock the screen,
